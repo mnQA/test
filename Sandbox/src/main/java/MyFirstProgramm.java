@@ -1,6 +1,6 @@
 public class MyFirstProgramm {
 
     public static void main(String[] args) {
-        system.out.println("Hello world");
+        System.out.println("Какой же я молодец то!");
     }
 }
