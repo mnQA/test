@@ -1,0 +1,2 @@
+ru/stqa/learning/sandbox/MyFirstProgram.java
+ ru.stqa.learning.sandbox.MyFirstProgram
