@@ -1,4 +1,4 @@
-package ru.stqa.learning;
+package ru.stqa.learning.sandbox;
 
 public class MyFirstProgram {
 
